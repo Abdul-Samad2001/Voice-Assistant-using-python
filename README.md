@@ -29,6 +29,7 @@ This is a Python-based personal assistant that can perform various tasks such as
 ## Installation
 
 1. Clone the repository:
-2. open the file with jupyter notebook or editor of your choice 
+2. open the file with jupyter notebook or editor of your choice.
+3. upload all the png picture in the file.
 
 
